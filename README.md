@@ -1,2 +1,3 @@
 # ASTR596Capstone
-Author: Nathaniel Sexton
+Author: Nathaniel Sexton, Seth Milbourn
+
